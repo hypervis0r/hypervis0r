@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypervis0r&label=Profile%20views&color=0e75b6&style=flat" alt="hypervis0r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypervis0r" alt="hypervis0r" /></a> </p>
-
 - 🔭 I’m currently working on [HyperProtocol](https://github.com/hypervis0r/HyperProtocol)
 
 - 🌱 I’m currently learning **OpenGL, Driver Development**
 
-- 📝 I regularly write articles on [https://www.phasetw0.com/](https://www.phasetw0.com/)
+- 📝 I regularly write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
 - 💬 Ask me about **C, Windows API, Networking**
 
-- 📫 How to reach me **hyp3rvisor@protonmail.com**
+- 📫 How to reach me - **hyp3rvisor@protonmail.com**
 
-- ⚡ Fun fact **I do music development, and 3D modeling (ish)**
+- ⚡ Fun fact - **I do music development, and 3D modeling (ish)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
