@@ -1,6 +1,8 @@
 <h1>Hey, I'm Hypervisor</h1>
 <h3>I write cool software and code in C/C++</h3>
 
+<h3>i cant stop abandoning projects send help</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypervis0r&label=Profile%20views&color=ff4d00&style=flat" alt="hypervis0r" /> </p>
 
 - 🔭 I’m currently working on [HyperProtocol](https://github.com/hypervis0r/HyperProtocol)
