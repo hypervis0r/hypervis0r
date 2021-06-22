@@ -9,7 +9,7 @@
 
 - I’m currently learning **OpenGL, Driver Development**
 
-- I regularly write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
+- I write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
 - Ask me about **C, Windows API, Networking**
 
