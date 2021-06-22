@@ -7,7 +7,7 @@
 
 - I’m currently working on [BackChannel](https://github.com/BackChannel-Chat-Client/BackChannel-Server)
 
-- I’m currently learning **OpenGL, Driver Development**
+- I’m currently learning **TLS and E2E Encryption, Driver Development**
 
 - I write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
