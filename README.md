@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypervis0r&label=Profile%20views&color=ff4d00&style=flat" alt="hypervis0r" /> </p>
 
-- 🔭 I’m currently working on [BackChannel](https://github.com/BackChannel-Chat-Client/BackChannel-Server)
+- I’m currently working on [BackChannel](https://github.com/BackChannel-Chat-Client/BackChannel-Server)
 
-- 🌱 I’m currently learning **OpenGL, Driver Development**
+- I’m currently learning **OpenGL, Driver Development**
 
-- 📝 I regularly write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
+- I regularly write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
-- 💬 Ask me about **C, Windows API, Networking**
+- Ask me about **C, Windows API, Networking**
 
-- 📫 How to reach me - **hyp3rvisor@protonmail.com**
+- How to reach me - **hyp3rvisor@protonmail.com** or **Hypervisor#9462**
 
-- ⚡ Fun fact - **I do music development, and 3D modeling (ish)**
+- **I do music development, and 3D modeling (ish)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypervis0r&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hypervis0r" /></p>
 
