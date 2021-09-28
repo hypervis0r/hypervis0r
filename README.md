@@ -7,13 +7,13 @@
 
 - I’m currently working on [BackChannel](https://github.com/BackChannel-Chat-Client/BackChannel-Server)
 
-- I’m currently learning **TLS and E2E Encryption, Driver Development**
+- I’m currently learning **Driver Development, Data Structures**
 
 - I write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
 - Ask me about **C, Windows API, Networking**
 
-- How to reach me - **hyp3rvisor@protonmail.com** or **Hypervisor#9462**
+- How to reach me - **hypervis0r@phasetw0.com** or **Hypervisor#9462**
 
 - I do music development, and 3D modeling (ish)
 
