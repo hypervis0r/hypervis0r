@@ -19,6 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypervis0r&show_icons=true&theme=dark&locale=en&layout=compact" alt="hypervis0r" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypervis0r&show_icons=true&theme=dark&locale=en&count_private=true" alt="hypervis0r" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
