@@ -7,7 +7,7 @@
 
 - I’m currently working on low level shit
 
-- I’m currently learning **Driver Development, Data Structures**
+- I’m currently learning **Graphics Programming, Low-Level Systems Development**
 
 - I write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
