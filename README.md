@@ -1,5 +1,5 @@
 <h1>Hey, I'm Hypervisor</h1>
-<h3>I write cool software and code in C/C++</h3>
+<h3>I write half-finished projects in C/C++</h3>
 
 <h3>i cant stop abandoning projects send help</h3>
 
