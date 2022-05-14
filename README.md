@@ -36,3 +36,6 @@
 <a href="https://github.com/hypervis0r/nsaproductgenerator">NsaProductGenerator</a><br>
 <a href="https://github.com/hypervis0r/GPTReader">GPTReader</a><br>
 <a href="https://github.com/hypervis0r/DominosKiller">DominosKiller</a><br>
+
+<h3>Some Gists documenting techniques or benchmarks</h3>
+<a href="https://gist.github.com/hypervis0r/2062848c44edb85871e13427cab64ad2">[.NET 6.0] List&lt;T&gt;: Any vs Exists vs Contains</a><br>
