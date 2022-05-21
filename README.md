@@ -15,7 +15,7 @@
 
 - How to reach me - **hypervis0r@phasetw0.com** or **Hypervisor#9462**
 
-- I do music development, and 3D modeling (ish)
+- I do [music development](https://soundcloud.com/hypervisorofficial), and 3D modeling (ish)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypervis0r&show_icons=true&theme=dark&locale=en&layout=compact" alt="hypervis0r" /></p>
 
