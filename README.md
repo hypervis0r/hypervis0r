@@ -7,7 +7,7 @@
 
 - I’m currently working on low level stuff
 
-- I’m currently learning **Distributed Systems Architecture, Low-Level Systems Development**
+- I’m currently learning **Distributed Systems Architecture, Low-Level Systems Development, Compiler Internals**
 
 - I write articles at [https://www.phasetw0.com/](https://www.phasetw0.com/)
 
