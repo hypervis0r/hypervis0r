@@ -13,7 +13,7 @@
 
 - Ask me about **C, Windows API, Networking**
 
-- How to reach me - **hypervis0r@phasetw0.com** or **Hypervisor#9462**
+- How to reach me - **hypervis0r@phasetw0.com** or **@hypervisor on Discord**
 
 - I do [music development](https://soundcloud.com/hypervisorofficial), and 3D modeling (ish)
 
