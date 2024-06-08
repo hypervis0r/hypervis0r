@@ -45,3 +45,6 @@
 <table>
 <tr><td><a href="https://gist.github.com/hypervis0r/2062848c44edb85871e13427cab64ad2">[.NET 6.0] List&lt;T&gt;: Any vs Exists vs Contains</a></td><td>Comparing the performance of common List&lt;T&gt; operations</td></tr>
 </table>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/hypervis0r/hypervis0r/blob/master/1691981441454670.jpg?raw=true');]{x0000}$}
